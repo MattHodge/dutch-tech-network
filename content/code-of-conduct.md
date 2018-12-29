@@ -2,7 +2,6 @@
 title: "Code of Conduct"
 titleEmoji: "📃"
 date: 2018-12-29T10:25:19+01:00
-draft: true
 ---
 
 ### 👉 Enforced
