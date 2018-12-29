@@ -1,0 +1,43 @@
+baseURL = "https://dutch-tech.network"
+languageCode = "en-us"
+title = "Dutch Tech Network"
+theme = "hugo-coder-portfolio"
+
+[params]
+    # titleNoEmoji = "Dutch Tech Network"
+    author = "Dutch Tech Network"
+    description = "Dutch Tech Network"
+    headerEmoji = "🇳🇱"
+    # keywords = "blog,developer,personal"
+    info = "Network with other Tech professionals in the Netherlands"
+    avatarurl = "logo.png"
+    # footercontent = "Enter a text here."
+    # fixedbarContent = "Do you want to know me more private?→"
+    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = true
+    hideCopyright = true
+
+    snsShare = false
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+# Menu Links
+[[menu.main]]
+    name = "🎟️ Joining"
+    weight = 1
+    url = "joining"
+
+[[menu.main]]
+    name = "📃 Code of Conduct"
+    weight = 2
+    url  = "code-of-conduct"
