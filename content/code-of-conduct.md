@@ -12,6 +12,8 @@ date: 2018-12-29T10:25:19+01:00
 
 * Don't invite people that can't follow the above rules.
 
+* If you want to post (or find out about) jobs, do so in the `#jobs` channel.
+
 ### 🤞 Recommended
 
 ###### Complete Your Slack Profile
